@@ -1,7 +1,7 @@
 # Akash_Sports_Researcher
 Projects on biomechanics, health and data analytics
 
-# Biomechanical Analysis of Javelin throw using IMU_sensor_data
+## Biomechanical Analysis of Javelin throw using IMU_sensor_data
 
 ## Project 1: A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development (https://github.com/Ash1708/IMU_sensor_data/tree/main)
 
@@ -53,7 +53,7 @@ Training and Practical Implications:
 From a strength and conditioning perspective, monitoring an athlete’s ability to jump higher in less time with the same load could indicate improved force application capacity.
 Practitioners using incremental loading protocols should closely observe landing strategies to mitigate potential injury risks.
 
-### Machine learning and Analytics Project
+## Machine learning and Analytics Project
 
 ## Project 4: Classification of Elite and Sub Elite Goalkeepers in professional men’s football using multiple machine learning algorithms (https://github.com/Ash1708/Classification-of-Goalkeepers_ML)
 
