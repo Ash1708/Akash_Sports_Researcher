@@ -1,9 +1,18 @@
 # Akash_Sports_Researcher
 Projects on biomechanics, health and data analytics
 
+
+
+## Project: Pose-Estimation-Biomechanics ( https://github.com/Ash1708/Pose-Estimation-Biomechanics)
+This project uses MediaPipe Pose to estimate 3D positions of joints from a Jump movement video and computes:  
+* 3D Resultant Displacements
+* Velocities
+* Joint Angles.
+Visualizations help to analyze biomechanical patterns, relevant for injury risk prediction and movement quality assessment in sports.
+
 ## Biomechanical Analysis of Javelin throw using IMU_sensor_data
 
-## Project 1: A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development (https://github.com/Ash1708/IMU_sensor_data/tree/main)
+## Project : A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development (https://github.com/Ash1708/IMU_sensor_data/tree/main)
 
 ### In this project, I have analysed the technical parameters of Javelin throw and ploted the EDA and checked the reliability of the IMU system, further developed into an application.
 
@@ -15,7 +24,7 @@ Projects on biomechanics, health and data analytics
 * Collaborated in developing a real-time feedback application to enhance daily training sessions for javelin throw athletes.
 
 
-## Project 2: Pressure-Measuring-Insoles: Characteristics of plantar loads in maximum forward lunges using pressure measuring insoles (https://github.com/Ash1708/Pressure-Measuring-Insoles/tree/main)
+## Project: Pressure-Measuring-Insoles: Characteristics of plantar loads in maximum forward lunges using pressure measuring insoles (https://github.com/Ash1708/Pressure-Measuring-Insoles/tree/main)
 ### RESEARCH QUESTION 
 To compare the characteristics of plantar loads in maximum forward lunges with pressure 
 measuring insoles. 
@@ -32,7 +41,7 @@ Significant Differences in Midfoot, Heel, Lateral, and Medial Regions
 Heel Region Experiences Maximum Pressure in Stable Ground
 Large effect sizes were observed for peak pressure differences in midfoot, heel, lateral, and medial regions, confirming significant variations between stable and unstable conditions.
 
-## Project 3: Effect of external loads on the jump height and force-time characteristics during counter movement jump (https://github.com/Ash1708/Counter-Movement-Jump)
+## Project: Effect of external loads on the jump height and force-time characteristics during counter movement jump (https://github.com/Ash1708/Counter-Movement-Jump)
 
 ### In this project, I have analysed the effect that external load has on the jump height and force-time characteristics during counter movement jump. 
 ### RESEARCH QUESTION 
@@ -55,7 +64,7 @@ Practitioners using incremental loading protocols should closely observe landing
 
 ## Machine learning and Analytics Project
 
-## Project 4: Classification of Elite and Sub Elite Goalkeepers in professional men’s football using multiple machine learning algorithms (https://github.com/Ash1708/Classification-of-Goalkeepers_ML)
+## Project: Classification of Elite and Sub Elite Goalkeepers in professional men’s football using multiple machine learning algorithms (https://github.com/Ash1708/Classification-of-Goalkeepers_ML)
 
 ### This is the Machine Learning project I did during my Internship to classify goalkeepers based on their level of expertise using Machine learning Algorithms.
 
@@ -67,7 +76,7 @@ Practitioners using incremental loading protocols should closely observe landing
 * Documented methodologies, generated visualizations, and provided actionable insights to support data-driven decision-making.
 
 
-## Project 5: Vertical Play - Evaluating Market value of elite midfielders based on their ability to play vertical pass (https://github.com/Ash1708/Vertical-Play_Market-value-evaluation-of-soccer-players)
+## Project: Vertical Play - Evaluating Market value of elite midfielders based on their ability to play vertical pass (https://github.com/Ash1708/Vertical-Play_Market-value-evaluation-of-soccer-players)
 
 Research Question : To evaluate the vertical passing abilities of elite midfield soccer players using the metrics verticality and depth and investigate the correlation with market value.
 Data Collection   : The dataset for this study included Opta event data from 282 matches of the top French soccer league (Ligue 1) in season 2020/21, which provides the match sheet and detailed contextual information at the time of each event.
@@ -75,7 +84,7 @@ Data Collection   : The dataset for this study included Opta event data from 282
 Result             : The current study demonstrates that true midfielders and offensive midfielders exhibit a positive correlation between market value and the two metrics, verticality and depth. Further                         analysis indicates that this correlation is particularly strong for players over 24 years old. for wing midfielders, there is a positive correlation between age and market value. This can                     be attributed to the age distribution of different types of midfielders.
 
 
-## Project 6: Exploratory Data Analysis of football player data_EA Sports (https://github.com/Ash1708/Exploratory-Data-Analysis_Football_Players/tree/main)
+## Project: Exploratory Data Analysis of football player data_EA Sports (https://github.com/Ash1708/Exploratory-Data-Analysis_Football_Players/tree/main)
 
 ### This was a part of my personnal project to explore EDA
 
@@ -83,7 +92,7 @@ Result             : The current study demonstrates that true midfielders and of
 * Comparisons of various stats between players of similar playing positions.
 
 
-## Project 7: Effects of Constrained small sided games on physical & technical variables on University football Players (https://github.com/Ash1708/Soccer_Player_Analysis_GPS)
+## Project: Effects of Constrained small sided games on physical & technical variables on University football Players (https://github.com/Ash1708/Soccer_Player_Analysis_GPS)
 
 #### Research Question : Does the manipulation of constraints in football SSG has any effect on physical & technical performances of University football players.
 
