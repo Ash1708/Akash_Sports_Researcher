@@ -1,7 +1,22 @@
 # Akash_Sports_Researcher
 ### Projects on biomechanics, health and data analytics
 
-
+# Automated-movement-detection-and-Biomechanical-Analysis (https://github.com/Ash1708/Automated-movement-detection-and-Biomechanical-Analysis/blob/main/README.md)
+This project applies ‘pose estimation’ (MediaPipe) and signal processing to detect and analyze goblet squat repetitions from video. It is designed for sports performance analysis, rehabilitation monitoring, and as a demonstration of combining biomechanics with computer vision.
+## Features
+- Extracts knee joint angles using MediaPipe.
+- Cleans noisy pose-estimation data with:
+  - NaN handling,
+  - short-gap interpolation,
+  - zero-phase smoothing (no lag).
+- Detects squat repetitions using:
+  - peaks, troughs, and velocity zero-crossings,
+  - minimum concentric duration rules.
+- Outputs per-rep metrics:
+  - start, bottom, end timestamps,
+  - range of motion (ROM),
+  - concentric phase duration.
+- Saves results to CSV and visualizes reps on angle–time plots.
 
 ## Project: Pose-Estimation-Biomechanics ( https://github.com/Ash1708/Pose-Estimation-Biomechanics)
 This project uses MediaPipe Pose to estimate 3D positions of joints from a Jump movement video and computes:  
