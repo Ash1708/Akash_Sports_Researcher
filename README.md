@@ -1,7 +1,7 @@
 # Akash_Sports_Researcher
 ### Projects on biomechanics, health and data analytics
 
-# Automated-movement-detection-and-Biomechanical-Analysis (https://github.com/Ash1708/Automated-movement-detection-and-Biomechanical-Analysis/blob/main/README.md)
+## Automated-movement-detection-and-Biomechanical-Analysis  (https://github.com/Ash1708/Automated-movement-detection-and-Biomechanical-Analysis/blob/main/README.md)
 This project applies ‘pose estimation’ (MediaPipe) and signal processing to detect and analyze goblet squat repetitions from video. It is designed for sports performance analysis, rehabilitation monitoring, and as a demonstration of combining biomechanics with computer vision.
 ## Features
 - Extracts knee joint angles using MediaPipe.
@@ -27,7 +27,7 @@ Visualizations help to analyze biomechanical patterns, relevant for injury risk 
 
 ## Biomechanical Analysis of Javelin throw using IMU_sensor_data
 
-## Project : A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development (https://github.com/Ash1708/IMU_sensor_data/tree/main)
+ A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development (https://github.com/Ash1708/IMU_sensor_data/tree/main)
 
 In this project, I have analysed the technical parameters of Javelin throw and ploted the EDA and checked the reliability of the IMU system, further developed into an application.
 
