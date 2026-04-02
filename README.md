@@ -34,7 +34,7 @@ Increase in Propulsion and Landing Impulse:
 Propulsion impulse increased slightly with each added load, leading to a decrease in average net force and an increase in propulsion duration. Landing impulse increased, but the reduction in average net force was outweighed by the longer landing time.
 The longer force application duration suggests that incrementally loaded jumps do not inherently increase injury risk but may alter movement strategies. Increased hip and knee flexion could be a compensatory mechanism to absorb greater forces during landing.
 
-## Machine learning and Analytics Project
+## Machine learning and Predictive Modelling Project
 
 ## Project: Classification of Elite and Sub Elite Goalkeepers in professional men’s football using multiple machine learning algorithms (https://github.com/Ash1708/Classification-of-Goalkeepers_ML)
 
